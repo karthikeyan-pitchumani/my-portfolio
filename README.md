@@ -1,2 +1,2 @@
 # my-portfolio
-test portpolio
+test portfolio
